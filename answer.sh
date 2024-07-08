@@ -64,7 +64,7 @@ $ ls
 $ cd ../../
 
 # 19. `practice_dir_2`ディレクトリを削除してください。**但し、相対パスを使用してください。**
-$ rmdir practice_dir_2
+$ rmdir practice_dir_1/practice_dir_2
 
 # 20. `vi`または`vim`を用いて、カレントディレクトリにある`practice_file1.txt`に`I'm good at Linux commands!`と書き込んでください。
 $ vi practice_file1.txt
